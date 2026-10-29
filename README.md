@@ -3,7 +3,7 @@
 <p align="center">
   <b>Infraestrutura de TI · Desenvolvimento Full Stack · Cybersecurity (Blue Team)</b><br>
   Bacharel em Sistemas de Informação · Pós-graduando em Cybersecurity — Blue Team (FIAP)<br>
-  Fundador da <a href="https://fnsolutions.cloud">FN Solutions</a>
+  Fundador da <a href="https://fnsolutions.cloud" target="_blank" rel="noopener noreferrer">FN Solutions</a>
 </p>
 
 <p align="center">
