@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://fnsolutions.cloud"><img src="https://img.shields.io/badge/FN%20Solutions-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FN Solutions"></a>
-  <a href="https://www.linkedin.com/in/francislan-gon%C3%A7alves-6a1791129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://fnsolutions.cloud" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/FN%20Solutions-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="FN Solutions"></a>
+  <a href="https://www.linkedin.com/in/francislan-gon%C3%A7alves-6a1791129/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:francislan.ti@outlook.com"><img src="https://img.shields.io/badge/E--mail-22d3ee?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 </p>
-
 ---
 
 ## Sobre mim
